@@ -1,0 +1,16 @@
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.exe
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.deps.json
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.runtimeconfig.json
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.runtimeconfig.dev.json
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.dll
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\ref\atividade_7.dll
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\bin\Debug\net5.0\atividade_7.pdb
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.csprojAssemblyReference.cache
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.AssemblyInfoInputs.cache
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.AssemblyInfo.cs
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.csproj.CoreCompileInputs.cache
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.dll
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\ref\atividade_7.dll
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.pdb
+C:\Users\Carol\Desktop\10.5_atividades\atividade_7\obj\Debug\net5.0\atividade_7.genruntimeconfig.cache
