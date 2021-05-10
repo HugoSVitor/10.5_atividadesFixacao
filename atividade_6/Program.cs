@@ -18,15 +18,18 @@ namespace atividade_6
             
             Console.WriteLine("Insira um nome para que eu possa procurar!");
             string procurar = Console.ReadLine();
-            
-            if (procurar = nomes[i])
+
+            foreach (string item in nomes)
             {
-                Console.WriteLine("ACHEI!");
-            }else
-            {
+                if (item == procurar)
+                {
+                    Console.WriteLine("Achei! kk");
+                }else
+                {
+                    Console.WriteLine("Num achei não parça! ;-;");
+                }
                 
             }
-
         }
     }
 }
